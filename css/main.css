@@ -17,7 +17,7 @@
 
 .right-eyebrow {
   transform: rotate(100deg);
-  transform: 156px 82px;
+  transform-origin: 156px 82px;
   transition: all .5s linear;
 }
 
